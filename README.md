@@ -1,0 +1,2 @@
+# MIR
+Muusika andmeanalüütika projekt
