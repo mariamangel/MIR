@@ -6,6 +6,11 @@ This project is a part of the course Music Information Retrieval.
 ## Project Intro
 Our plan is to find out the main chords played in a big (small in the larger scale naeratus) amount of songs from the same genre. After finding the chords, we will try to mix them up in order to create a fully machine generated song (or if that does not work, we will try to generate only the chorus part.) all of it will be at first done without lyrics, we are trying to create a working melody for them. If that is somewhat successful, we could implement a machine learning algorithm in all of the songs and try to find out if the mainstream-generated songs will be categorized correctly by the algorithm.
 
+## Dataset
+Data: https://github.com/mdeff/fma
+fma_small.zip 7.2GB, 8000 tracks of 30s in 8 different genres, all are raw mp3 files.
+Various notebooks from the same github site, that teach how to extract different features/work with them.
+
 ### Methods Used
 * Data Visualization and analysis
 * Machine Learning
