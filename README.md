@@ -16,7 +16,8 @@ The genres are: blues, classical, country, disco, hiphop, jazz, metal, pop, regg
 ## Finding suitable dataset and chord extraction
 For us it was really hard to find suitable dataset.
 We tried different options:
-* https://github.com/huanlui/chord-suggester - next, we saw this repo and though that this would be ideal for us, because you could so many chord progressions for whole songs and in same key, but the website code was changed, so we didn't found a way to make it work. 
+* https://github.com/mdeff/fma - first we thought that this could be a good dataset, but after listening to it we found that there were also many music files with no harmony. Also we did not find a way to extract the chords
+* https://github.com/huanlui/chord-suggester - next, we saw this repo and though that this would be ideal for us, because we could have so many chord progressions for whole songs and in same key, but the website code was changed, so we didn't found a way to make it work. 
 * Anna recommended to use the gtzan dataset and to extract chords with a sonic annotator. We tried for a long time to make it work on our computers, but again we didn't have luck or skills.
 * So we are very grateful that Anna was able to extract chords with a sonic annotator and send it to us.
 
