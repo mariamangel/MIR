@@ -1,0 +1,83 @@
+Genre,Chords,First Chord,Most Popular Chords
+Hiphop,"['Em7', 'Dm', 'F6']",E,"['Em7', 'Dm', 'F6']"
+Hiphop,"['Dm7b5', 'G/D', 'Dm7b5']",D,"['Dm7b5', 'G/D']"
+Hiphop,"['Bbmaj7', 'Bb7', 'Eb/Bb']",B,"['Bbmaj7', 'Bb7', 'Eb/Bb']"
+Hiphop,"['Ebm7', 'Ebm6', 'Bmaj7']",E,"['Ebm7', 'Ebm6', 'Bmaj7']"
+Hiphop,"['Dm', 'Gm7', 'Am7', 'Dm', 'Gm7', 'Em7b5', 'Am7', 'Dm', 'Em7', 'A6']",D,"['Dm', 'Gm7', 'Am7']"
+Hiphop,"['Ab7', 'Ebm6', 'Ab/Eb', 'Ebmaj7']",A,"['Ab7', 'Ebm6', 'Ab/Eb']"
+Hiphop,"['B/A', 'Am7', 'Am7b5', 'A']",B,"['B/A', 'Am7', 'Am7b5']"
+Hiphop,['B6'],B,B6
+Hiphop,"['Em', 'N']",E,Em
+Hiphop,['C#m7b5'],C,C#m7b5
+Hiphop,"['Bbmaj7', 'F6']",B,Bbmaj7
+Hiphop,"['Eb7/G', 'Fm7b5/Eb', 'Gm7b5', 'Emaj7', 'Eb7/G', 'Ab/Eb', 'Abdim', 'Eb7/G']",E,"['Eb7/G', 'Fm7b5/Eb', 'Gm7b5']"
+Hiphop,"['Emaj7', 'Bb7']",E,Emaj7
+Hiphop,"['Abmaj7', 'C#', 'Abmaj7']",A,"['Abmaj7', 'C#']"
+Hiphop,"['Cmaj7', 'Bbm7b5/Ab', 'B6']",C,"['Cmaj7', 'Bbm7b5/Ab', 'B6']"
+Hiphop,"['E7/G#', 'N']",E,E7/G#
+Hiphop,"['F#m7b5/E', 'Dm7b5', 'C6', 'Daug']",F,"['F#m7b5/E', 'Dm7b5', 'C6']"
+Hiphop,"['G7', 'C#/G#', 'Gm7b5', 'Ab6', 'Bbm7b5/Ab', 'Abm6', 'N']",G,"['G7', 'C#/G#', 'Gm7b5']"
+Hiphop,"['Ab7', 'F#m7', 'Ab7', 'N']",A,"['Ab7', 'F#m7', 'N']"
+Hiphop,"['Bbm7b5', 'Dm6', 'F#7/A#', 'F#maj7']",B,"['Bbm7b5', 'Dm6', 'F#7/A#']"
+Hiphop,"['Dm6', 'G', 'Cm6', 'F6', 'G', 'Cm', 'F', 'G7', 'F', 'G', 'Cm', 'F6', 'G', 'Cm7', 'F', 'D']",D,"['Dm6', 'G', 'Cm6']"
+Hiphop,"['Em7', 'Ab7/C', 'Caug', 'B6', 'N']",E,"['Em7', 'Ab7/C', 'Caug']"
+Hiphop,"['Cm', 'Bb6', 'Ab6', 'Cmaj7', 'N']",C,"['Cm', 'Bb6', 'Ab6']"
+Hiphop,['G/B'],G,G/B
+Hiphop,"['C', 'Fm', 'Am7b5/G']",C,"['C', 'Fm', 'Am7b5/G']"
+Hiphop,"['Ab', 'E6', 'Abm', 'C#m', 'Abm7']",A,"['Ab', 'E6', 'Abm']"
+Hiphop,"['Bmaj7', 'Bb', 'Ebm', 'Bmaj7', 'Bb7', 'Ebm', 'Bmaj7', 'Bb7', 'Ebm', 'B6']",B,"['Bmaj7', 'Bb', 'Ebm']"
+Hiphop,"['Bb7/D', 'Cm6', 'Dm7b5', 'C6', 'E6', 'F#7', 'C#m', 'N']",B,"['Bb7/D', 'Cm6', 'Dm7b5']"
+Hiphop,"['F#6', 'Abm7b5/Gb', 'Ebm7', 'Bmaj7', 'Ebm', 'Abm7b5/Gb', 'Ebm', 'Bb', 'Ab7', 'F#6']",F,"['F#6', 'Abm7b5/Gb', 'Ebm7']"
+Hiphop,['Bbm7'],B,Bbm7
+Hiphop,"['Ebmaj7', 'Abm6', 'Gmaj7']",E,"['Ebmaj7', 'Abm6', 'Gmaj7']"
+Hiphop,"['Bb6', 'Abmaj7', 'Bbm6', 'Abmaj7']",B,"['Bb6', 'Abmaj7', 'Bbm6']"
+Hiphop,"['Gm', 'F', 'Gm7', 'G7']",G,"['Gm', 'F', 'Gm7']"
+Hiphop,"['Cm7', 'F/A', 'Cm7', 'C6', 'A6', 'C7', 'Fmaj7']",C,"['Cm7', 'F/A', 'C6']"
+Hiphop,"['Abm7', 'F#maj7', 'Ebm7', 'Abm7', 'B/D#', 'F#maj7', 'Ebm7', 'Abm7', 'F#maj7', 'Ebm7', 'Abm7', 'Ebm7', 'Abm7', 'F#maj7']",A,"['Abm7', 'F#maj7', 'Ebm7']"
+Hiphop,"['E7/G#', 'C#m7', 'F#6', 'C#m']",E,"['E7/G#', 'C#m7', 'F#6']"
+Hiphop,"['Abmaj7', 'G/D', 'Dmaj7', 'Bb/D', 'G/D']",A,"['Abmaj7', 'G/D', 'Dmaj7']"
+Hiphop,['A'],A,A
+Hiphop,"['Em', 'D/F#', 'C', 'G6', 'D7', 'C', 'D', 'Cmaj7', 'D', 'G', 'Dm']",E,"['Em', 'D/F#', 'C']"
+Hiphop,"['Cm7', 'F/A', 'Cm7', 'C6', 'A6', 'C7', 'Fmaj7']",C,"['Cm7', 'F/A', 'C6']"
+Hiphop,"['Dm7', 'C#6']",D,Dm7
+Hiphop,"['F#7', 'Cm', 'G6', 'F#m6', 'G7', 'Ebmaj7']",F,"['F#7', 'Cm', 'G6']"
+Hiphop,"['Fmaj7', 'C6', 'N']",F,"['Fmaj7', 'C6', 'N']"
+Hiphop,"['Amaj7', 'Am7']",A,Amaj7
+Hiphop,"['Ebmaj7', 'C#maj7', 'F#maj7', 'Emaj7', 'Cm7b5/Bb', 'C#maj7', 'Emaj7', 'Bmaj7', 'Bbm7', 'F#maj7']",E,"['Ebmaj7', 'C#maj7', 'F#maj7']"
+Hiphop,"['Cmaj7', 'Am6', 'Em7', 'Am', 'Eb6', 'Am7', 'Eb']",C,"['Cmaj7', 'Am6', 'Em7']"
+Hiphop,"['Bb6', 'N']",B,Bb6
+Hiphop,"['Bbm7', 'C7', 'Bb7', 'Cm7', 'Bbm7', 'Bb7', 'Ab7/C', 'Bbmaj7', 'N']",B,"['Bbm7', 'C7', 'Bb7']"
+Hiphop,"['Eb7', 'B/D#', 'Eb7', 'B/D#', 'Eb7']",E,"['Eb7', 'B/D#']"
+Hiphop,"['Bbmaj7', 'Amaj7', 'Bbm', 'Eaug', 'Bb', 'Amaj7', 'F#maj7', 'E', 'Bbmaj7', 'F#m7b5/E', 'Bb', 'Faug', 'E', 'Bbmaj7', 'E6', 'N']",B,"['Bbmaj7', 'Amaj7', 'Bbm']"
+Hiphop,['Abmaj7'],A,Abmaj7
+Hiphop,"['Gm7b5/F', 'F6', 'Abm', 'F6']",G,"['Gm7b5/F', 'F6', 'Abm']"
+Hiphop,"['C#m7', 'Abm']",C,C#m7
+Hiphop,"['Cm7b5/Bb', 'Bmaj7', 'Bbm7b5/Ab', 'Bmaj7', 'C#6', 'Bmaj7', 'N']",C,"['Cm7b5/Bb', 'Bmaj7', 'Bbm7b5/Ab']"
+Hiphop,"['Abm7', 'Bbm7', 'Amaj7', 'Bbm7', 'F#m6', 'Fm7b5/Eb', 'Amaj7', 'Eb7', 'F#m7']",A,"['Abm7', 'Bbm7', 'Amaj7']"
+Hiphop,"['Bmaj7', 'F#m', 'Bmaj7', 'F#m', 'B', 'F#/C#', 'Bm7', 'C7/E']",B,"['Bmaj7', 'F#m', 'B']"
+Hiphop,"['Bb6', 'Em6', 'Gm', 'C#m7b5', 'Abmaj7', 'F#aug']",B,"['Bb6', 'Em6', 'Gm']"
+Hiphop,"['A7', 'Eb/Db', 'Amaj7']",A,"['A7', 'Eb/Db', 'Amaj7']"
+Hiphop,"['Bb7', 'C/E', 'Bb7']",B,"['Bb7', 'C/E']"
+Hiphop,"['Cm7b5', 'Cmaj7', 'D7/F#', 'C#maj7', 'D7/F#', 'C#/E#', 'Cm7b5', 'C#', 'D/C']",C,"['Cm7b5', 'Cmaj7', 'D7/F#']"
+Hiphop,"['F#maj7', 'Emaj7', 'F#maj7', 'Faug', 'Edim', 'Baug', 'Eb6', 'F#7', 'B', 'Eb6', 'F#7']",F,"['F#maj7', 'Emaj7', 'Faug']"
+Hiphop,"['Ebm7', 'B7/D#', 'Ebm7', 'B7/D#', 'Emaj7', 'Ebm7', 'G', 'Ebm7']",E,"['Ebm7', 'B7/D#', 'Emaj7']"
+Hiphop,"['Dm7', 'Dmaj7', 'G/D', 'Am7', 'Dm6']",D,"['Dm7', 'Dmaj7', 'G/D']"
+Hiphop,"['Am7b5', 'Gmaj7', 'F', 'Abmaj7', 'Gm', 'N']",A,"['Am7b5', 'Gmaj7', 'F']"
+Hiphop,['Bm7'],B,Bm7
+Hiphop,"['Cm7', 'Emaj7', 'Cm6', 'Cm7', 'Ebmaj7', 'Ab6', 'Cm', 'N']",C,"['Cm7', 'Emaj7', 'Cm6']"
+Hiphop,['Bm7'],B,Bm7
+Hiphop,"['Ebm7', 'Bbm7', 'Ebmaj7', 'F#maj7', 'B7', 'Bbm6', 'Eb7', 'B/D#', 'Bbm6', 'Eb7']",E,"['Ebm7', 'Bbm7', 'Ebmaj7']"
+Hiphop,"['C#m', 'F#/C#', 'Dmaj7', 'C#m']",C,"['C#m', 'F#/C#', 'Dmaj7']"
+Hiphop,['Eb7/G'],E,Eb7/G
+Hiphop,"['Dm7', 'Dmaj7', 'Abm7']",D,"['Dm7', 'Dmaj7', 'Abm7']"
+Hiphop,['C7'],C,C7
+Hiphop,['Fmaj7'],F,Fmaj7
+Hiphop,['F#7'],F,F#7
+Hiphop,['A6'],A,A6
+Hiphop,"['Emaj7', 'Emaj7', 'N']",E,"['Emaj7', 'N']"
+Hiphop,"['Abm7', 'Bbm7b5/Ab']",A,Abm7
+Hiphop,"['D7', 'Ab7/C']",D,D7
+Hiphop,"['Emaj7', 'Em7', 'N']",E,"['Emaj7', 'Em7', 'N']"
+Hiphop,"['Emaj7', 'N']",E,Emaj7
+Hiphop,['E7/G#'],E,E7/G#
+Hiphop,"['F6', 'Gm7', 'D/A', 'Gm7', 'D/A', 'Gm7', 'D7/F#']",F,"['F6', 'Gm7', 'D/A']"
