@@ -3,13 +3,15 @@ This project is a part of the course Music Information Retrieval.
 
 #### -- Project Status: [Completed]
 
-## Project Intro
-Our plan is to find out the main chords played in a big (small in the larger scale naeratus) amount of songs from the same genre. After finding the chords, we will try to mix them up in order to create a fully machine generated song (or if that does not work, we will try to generate only the chorus part.) all of it will be at first done without lyrics, we are trying to create a working melody for them. If that is somewhat successful, we could implement a machine learning algorithm in all of the songs and try to find out if the mainstream-generated songs will be categorized correctly by the algorithm.
+## Project Intro and Description
+Our plan was to find out the main chords played in a big (small in the larger scale :)) amount of songs from the same genre. After finding the chords, we tried to mix them up in order to create a fully machine generated song. For this the 30 s songs didn´t give a good overview, because the music files were made from different parts of the songs. Plus some clips had only one chord. So it was hard to make chord progression. We implemented a machine learning algorithm for all of the music files and tried to find out if the songs were categorized correctly by the algorithm. We also added chord progession, which is common for blues and country. 
 
 ## Dataset
-Data: https://github.com/mdeff/fma
-fma_small.zip 7.2GB, 8000 tracks of 30s in 8 different genres, all are raw mp3 files.
-Various notebooks from the same github site, that teach how to extract different features/work with them.
+Data: gtzan dataset
+The dataset consists of 1000 audio tracks each 30 seconds long. 
+It contains 10 genres, each represented by 100 tracks. The tracks are all 22050Hz Mono 16-bit audio files in .wav format.
+
+The genres are: blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, rock
 
 ### Methods Used
 * Data Visualization and analysis
@@ -20,24 +22,29 @@ Various notebooks from the same github site, that teach how to extract different
 * Pandas, jupyter
 * HTML
 
-## Project Description
-In this project, we used data . The original dataset consisted of . 
-Our goals for this project were to .
-
-
 ## Getting Started
 
 1. Clone this repo.
 2. Open this repo with Jupyter notebook.
-3. The main code is written in 
+3. The code is written in three repos.
 4. To run these files, in each you have to run all cells from beginning.
 
 ### Notebooks contents:
 
-#### MIR.ipynb:
-* m
-* m
+#### MIR project_extraction.ipynb:
+* dataframe creation per genre
+* dataframe: genre, chords, first chord, most_popular_chords
 
+#### MIR project analysis.ipynb:
+* all chords spearately in dataframe per genre
+* bar plots for each genre
+
+#### MIR Project Prediction.ipynb:
+* creation of dum dataframe
+* creation of predicting model
+* KNN
+* RandomForestClassifier
+* Added one progression => prediction again
 
 #### Team Members:
 
