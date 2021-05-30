@@ -13,6 +13,14 @@ It contains 10 genres, each represented by 100 tracks. The tracks are all 22050H
 
 The genres are: blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, rock
 
+## Finding suitable dataset and chord extraction
+For us it was really hard to find suitable dataset.
+We tried different options:
+* https://github.com/mdeff/fma - first we thought that this could be good dataset, but after listeing it we found that there also many music files with no harmony. Also we did not find a way to extract the chords
+* https://github.com/huanlui/chord-suggester - next, we saw this repo and though that this would be ideal for us, beause you could so many chord progressions for whole songs and in same key, but the website code was changed, so we didn´t found a way to make it work. 
+* Anna recommended to use gtzan dataset and to extract chords with sonic annotator. We tried for a long time to make it work in our computers, but again we didn´t have luck or skills.
+* So we are very gratful that Anna was able to extract chords with sonic annotator and send it to us.
+
 ### Methods Used
 * Data Visualization and analysis
 * Machine Learning
